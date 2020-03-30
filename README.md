@@ -113,7 +113,7 @@ You have compiled a Linux kernel. The process takes some time, however now you h
 Reboot Linux computer and boot into your new kernel
 
 **Just issue the reboot command or shutdown command:**
-# reboot
+$ reboot
 
 **Verify new Linux kernel version after reboot:**
 $ uname -mrs
