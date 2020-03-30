@@ -4,7 +4,7 @@ This link will give you the minimal requirements for kernel compilation
 https://github.com/torvalds/linux/blob/master/Documentation/process/changes.rst
 
 
-# How to compile and install Linux Kernel 5.4.1 from source code
+# How to compile and install Linux Kernel 5.6 from source code
 
 **Step 1. Get the latest Linux kernel source code**
 
